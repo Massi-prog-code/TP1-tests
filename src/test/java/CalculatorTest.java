@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Test;
-import org.example.Calculator;
+import org.example.tp1.Calculator;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {

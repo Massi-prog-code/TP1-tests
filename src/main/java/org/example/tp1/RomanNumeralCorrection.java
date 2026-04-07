@@ -1,4 +1,4 @@
-package org.example;
+package org.example.tp1;
 
 package org.example;
 

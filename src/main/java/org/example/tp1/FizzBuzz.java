@@ -1,10 +1,8 @@
-package org.example;
+package org.example.tp1;
 
-
-public class FizzBuzzCorrection {
+public class FizzBuzz {
     public static String fizzBuzz(int n) {
-
-        if (n < 1) {  // CORRIGÉ : < au lieu de <=
+        if (n <= 1) {
             throw new IllegalArgumentException("n must be positive");
         }
         if (n % 15 == 0) {

@@ -1,5 +1,5 @@
 package org.example;
-import org.example.Calculator;
+import org.example.tp1.Calculator;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {

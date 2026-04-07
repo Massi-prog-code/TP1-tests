@@ -1,6 +1,6 @@
-package org.example;
+package org.example.tp1;
 
-public class Palindrome {
+public class PalindromeCorrection {
     public static boolean isPalindrome(String s) {
         if (s == null) {
             throw new NullPointerException("String must not be null");
@@ -12,8 +12,8 @@ public class Palindrome {
             if (s.charAt(i) != s.charAt(j)) {
                 return false;
             }
-            j++;
-            i--;
+            i++;
+            j--;
         }
         return true;
     }
