@@ -1,6 +1,5 @@
 package org.example;
 
-package org.example;
 
 public class FizzBuzzCorrection {
     public static String fizzBuzz(int n) {
